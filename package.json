@@ -1,0 +1,20 @@
+{
+  "name": "valid-type",
+  "version": "0.1.0",
+  "description": "Validates javascript objects: type checking, regex and property exist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "validator",
+    "objectvalidator",
+    "validate",
+    "objects",
+    "typecheck",
+    "regex",
+    "propertyexist"
+  ],
+  "author": "Patrik Höggren",
+  "license": "ISC"
+}
