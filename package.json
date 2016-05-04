@@ -16,5 +16,13 @@
     "propertyexist"
   ],
   "author": "Patrik Höggren",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoggren/valid-type.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phoggren/valid-type/issues"
+  },
+  "homepage": "https://github.com/phoggren/valid-type#readme"
 }
